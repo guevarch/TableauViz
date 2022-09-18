@@ -19,3 +19,4 @@
   - ![image](https://user-images.githubusercontent.com/107594143/190919256-b2d81997-4793-4103-84f6-00d441e7a7a7.png)
 
 # Conclusion
+  - The purpose of the analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal by analyzing the data and producing visualizations of the length of time that bikes are checked out for all riders and genders, and the number of bike trips for each type of user and gender for each day of the week. Based on the results above, the ride sharing business for lower, upper, and middle Manhattan prove to be a viable business. The program is straightforward and user friendly, there is high and sustained demand during the week, and most the start/stop areas are within the same region. It would be interesting to see the data for the other days of the year to view the high and low volume points for each season. 
