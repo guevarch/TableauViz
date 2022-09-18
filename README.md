@@ -15,9 +15,7 @@
   - Below are the images of the start and stopping area. The area is mainly centered around lower, middle, and upper Manhattan. This data illustrates that the need for bike sharing is high demand in this area. Which makes sense to the heavy volume of traffic in the city.
   - ![image](https://user-images.githubusercontent.com/107594143/190918643-9c731ddc-3d61-4013-baf1-04bc34c5c09d.png)
   - ![image](https://user-images.githubusercontent.com/107594143/190918651-0f5cf306-5c00-4ea7-b592-70fd89df4059.png)
-
-
-
-
+  - Finally, this is the summary dashboard for all the images displayed.
+  - ![image](https://user-images.githubusercontent.com/107594143/190919256-b2d81997-4793-4103-84f6-00d441e7a7a7.png)
 
 # Conclusion
