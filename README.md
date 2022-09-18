@@ -1,6 +1,6 @@
 # TableauViz
 # Overview
-  - The purpose of the analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal by anaylyzing the data and producing visualizations of the length of time that bikes are checked out for all riders and genders, and the number of bike trips for each type of user and gender for each day of the week.
+  - The purpose of the analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal by analyzing the data and producing visualizations of the length of time that bikes are checked out for all riders and genders, and the number of bike trips for each type of user and gender for each day of the week.
 # Results
   - The image below is the average checkout time for users. The graph shows that the checkout times are within 30 minutes. This shows that the checkout process is relatively straightforward and user friendly.
   - ![image](https://user-images.githubusercontent.com/107594143/190917898-878cd2b0-e8a0-4126-beb5-9ec34cedbfed.png)
