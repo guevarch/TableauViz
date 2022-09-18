@@ -10,8 +10,13 @@
   - ![image](https://user-images.githubusercontent.com/107594143/190918213-63cce20f-31b6-419e-bad2-fef43a5e588b.png)
   - The image below is the trips by gender. The heat map shows that the majority of users are male. 
   - ![image](https://user-images.githubusercontent.com/107594143/190918281-3d06b9ab-c557-4b92-a22f-fe26eca43479.png)
-  - The image below is trips by gender by weekday and the inclusion of type of user. From the heat map we
+  - The image below is trips by gender by weekday and the inclusion of type of user. From the heat map we can see that the majority of subscribers are male and the most active days are Thursday and Friday. 
   - ![image](https://user-images.githubusercontent.com/107594143/190918359-8563a981-7236-440e-9fc9-6403382b15d4.png)
+  - Below are the images of the start and stopping area. The area is mainly centered around lower, middle, and upper Manhattan. This data illustrates that the need for bike sharing is high demand in this area. Which makes sense to the heavy volume of traffic in the city.
+  - ![image](https://user-images.githubusercontent.com/107594143/190918643-9c731ddc-3d61-4013-baf1-04bc34c5c09d.png)
+  - ![image](https://user-images.githubusercontent.com/107594143/190918651-0f5cf306-5c00-4ea7-b592-70fd89df4059.png)
+
+
 
 
 
